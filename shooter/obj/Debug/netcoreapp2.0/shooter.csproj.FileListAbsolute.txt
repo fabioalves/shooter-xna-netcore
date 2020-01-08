@@ -1,0 +1,15 @@
+C:\projetos\monogame\shooter\bin\Debug\netcoreapp2.0\shooter.deps.json
+C:\projetos\monogame\shooter\bin\Debug\netcoreapp2.0\shooter.runtimeconfig.json
+C:\projetos\monogame\shooter\bin\Debug\netcoreapp2.0\shooter.runtimeconfig.dev.json
+c:\projetos\monogame\shooter\bin\Debug\netcoreapp2.0\shooter.dll
+c:\projetos\monogame\shooter\bin\Debug\netcoreapp2.0\shooter.pdb
+c:\projetos\monogame\shooter\obj\Debug\netcoreapp2.0\shooter.csprojAssemblyReference.cache
+c:\projetos\monogame\shooter\obj\Debug\netcoreapp2.0\shooter.csproj.CoreCompileInputs.cache
+c:\projetos\monogame\shooter\obj\Debug\netcoreapp2.0\shooter.AssemblyInfoInputs.cache
+c:\projetos\monogame\shooter\obj\Debug\netcoreapp2.0\shooter.AssemblyInfo.cs
+c:\projetos\monogame\shooter\obj\Debug\netcoreapp2.0\shooter.dll
+c:\projetos\monogame\shooter\obj\Debug\netcoreapp2.0\shooter.pdb
+c:\projetos\monogame\shooter\bin\Debug\netcoreapp2.0\Content\Graphics\player.xnb
+c:\projetos\monogame\shooter\bin\Debug\netcoreapp2.0\Content\Graphics\sprite_sheet.xnb
+c:\projetos\monogame\shooter\bin\Debug\netcoreapp2.0\Content\Graphics\sprite-sheet-cat.xnb
+c:\projetos\monogame\shooter\bin\Debug\netcoreapp2.0\Content\Graphics\sprite-sheet-rat.xnb
